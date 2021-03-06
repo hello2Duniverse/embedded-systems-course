@@ -9,9 +9,14 @@ Due to COVID-19, in-person robotics meetings and thus competitions have become l
 - GitHub account
 - Elegoo’s Super Starter Kit Uno R3 Project ([$36.99 on Amazon](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/))
 
+#include <stdio.h>
 
-[TO-DO 1]  
-Practice pulling new code to your fork that has been uploaded to the main repository! Delete this line.
+int main(void) {
+ printf("Hello World\n");
+ return 0;
+}
+
+
 
 ## Log
 

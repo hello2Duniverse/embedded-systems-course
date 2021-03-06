@@ -10,9 +10,6 @@ Due to COVID-19, in-person robotics meetings and thus competitions have become l
 - Elegoo’s Super Starter Kit Uno R3 Project ([$36.99 on Amazon](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/))
 
 
-[TO-DO 1]  
-Practice pulling new code to your fork that has been uploaded to the main repository! Delete this line.
-
 ## Log
 
 **Workshop Topic #0A: Introduction to Arduino and Components**  
